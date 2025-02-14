@@ -1,0 +1,4 @@
+ DM – Introduction to graphs: GnUYEN Hoang Thach.nhthach@math.ac.vn.
+ The handshaking theorem is defined by the degree of a vertice in an undirected graph . Two vertices are adjacent if
+ A graph G = (V,E)is abipartite graph if V can be partitioned into two sets V 1 and
+ Every graph on nvertices is a subgraph of itself . The adjacency matrix of a graph is a V×V matrix
