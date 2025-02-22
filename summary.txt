@@ -1,4 +1,5 @@
- DM – Introduction to graphs: GnUYEN Hoang Thach.nhthach@math.ac.vn.
- The handshaking theorem is defined by the degree of a vertice in an undirected graph . Two vertices are adjacent if
- A graph G = (V,E)is abipartite graph if V can be partitioned into two sets V 1 and
- Every graph on nvertices is a subgraph of itself . The adjacency matrix of a graph is a V×V matrix
+ Speech And Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition . The book is written by Daniel Jurafsky and James H. Martin, Prentice-Hall, in the early stages of its development .
+
+ In NLP, words are also known as lexicon items and a set of words form a lexicon . Phonetics deals with the physical building blocks of a language sound system . Semantic analysis is concerned with the meaning of the language . Synthesis tree is assigned by a grammer (typically Context Free Grammer)
+
+ 2/22/2025NLP 15FiveProcessingStagesinaNLPSystem (4)SemanticAnalysis) 'It is necessary to know that neither geometrical shapes nor baseball fields nor gemstones do (process of elimination) 'The process of determining the correct meaning of an individual word is call.word sense disambiguation'
